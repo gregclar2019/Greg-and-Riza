@@ -1,0 +1,56 @@
+img {
+  width: 100%;
+}
+
+.banner {
+  position: relative;
+  background-color: black;
+  overflow: hidden;
+}
+
+.foregound {
+  width: 80%;
+  position: absolute;
+  z-index: 2;
+  top: 10%;
+  left: 10%;
+}
+
+.background {
+  width: 100%;
+  filter: blur(5px);
+}
+
+.features {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  padding: 4% 5% 4%;
+}
+
+.riza {
+  border-radius: 20%;
+  padding: 8%;
+}
+
+.container-fuid {
+  height: 400px;
+  background-color: grey;
+}
+
+.church {
+  padding: 4%;
+}
+
+.bottom1 {
+  padding-top: 3%;
+  padding-bottom: 2%
+}
+
+.bottom2 {
+  padding-top: 0;
+  padding-bottom: 3%
+}
